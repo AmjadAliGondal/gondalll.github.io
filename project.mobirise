@@ -173,7 +173,7 @@
             ".mbr-section-lead SPAN": {
               "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "font-size": "17px"
+              "font-size": "19px"
             },
             ".mbr-section-lead": {
               "text-align": "center"
