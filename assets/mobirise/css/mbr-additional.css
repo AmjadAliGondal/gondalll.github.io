@@ -102,10 +102,10 @@ h6,
   background-color: #7e9b9f !important;
 }
 .bg-warning {
-  background-color: #f3c649 !important;
+  background-color: #1f2689 !important;
 }
 .bg-danger {
-  background-color: #fac51c !important;
+  background-color: #1f2689 !important;
 }
 .btn-primary {
   background-color: #1f2689;
@@ -188,8 +188,8 @@ h6,
   border-color: #005c48 !important;
 }
 .btn-warning {
-  background-color: #f3c649;
-  border-color: #f3c649;
+  background-color: #1f2689;
+  border-color: #1f2689;
   color: #ffffff;
 }
 .btn-warning:hover,
@@ -198,18 +198,18 @@ h6,
 .btn-warning:active,
 .btn-warning.active {
   color: #ffffff;
-  background-color: #e1a90f;
-  border-color: #e1a90f;
+  background-color: #11154b;
+  border-color: #11154b;
 }
 .btn-warning.disabled,
 .btn-warning:disabled {
   color: #ffffff !important;
-  background-color: #e1a90f !important;
-  border-color: #e1a90f !important;
+  background-color: #11154b !important;
+  border-color: #11154b !important;
 }
 .btn-danger {
-  background-color: #fac51c;
-  border-color: #fac51c;
+  background-color: #1f2689;
+  border-color: #1f2689;
   color: #ffffff;
 }
 .btn-danger:hover,
@@ -218,14 +218,14 @@ h6,
 .btn-danger:active,
 .btn-danger.active {
   color: #ffffff;
-  background-color: #c59704;
-  border-color: #c59704;
+  background-color: #11154b;
+  border-color: #11154b;
 }
 .btn-danger.disabled,
 .btn-danger:disabled {
   color: #ffffff !important;
-  background-color: #c59704 !important;
-  border-color: #c59704 !important;
+  background-color: #11154b !important;
+  border-color: #11154b !important;
 }
 .btn-primary-outline {
   background: none;
@@ -309,8 +309,8 @@ h6,
 }
 .btn-warning-outline {
   background: none;
-  border-color: #c9970d;
-  color: #c9970d;
+  border-color: #0c0f36;
+  color: #0c0f36;
 }
 .btn-warning-outline:hover,
 .btn-warning-outline:focus,
@@ -318,19 +318,19 @@ h6,
 .btn-warning-outline:active,
 .btn-warning-outline.active {
   color: #ffffff;
-  background-color: #f3c649;
-  border-color: #f3c649;
+  background-color: #1f2689;
+  border-color: #1f2689;
 }
 .btn-warning-outline.disabled,
 .btn-warning-outline:disabled {
   color: #ffffff !important;
-  background-color: #f3c649 !important;
-  border-color: #f3c649 !important;
+  background-color: #1f2689 !important;
+  border-color: #1f2689 !important;
 }
 .btn-danger-outline {
   background: none;
-  border-color: #ac8404;
-  color: #ac8404;
+  border-color: #0c0f36;
+  color: #0c0f36;
 }
 .btn-danger-outline:hover,
 .btn-danger-outline:focus,
@@ -338,14 +338,14 @@ h6,
 .btn-danger-outline:active,
 .btn-danger-outline.active {
   color: #ffffff;
-  background-color: #fac51c;
-  border-color: #fac51c;
+  background-color: #1f2689;
+  border-color: #1f2689;
 }
 .btn-danger-outline.disabled,
 .btn-danger-outline:disabled {
   color: #ffffff !important;
-  background-color: #fac51c !important;
-  border-color: #fac51c !important;
+  background-color: #1f2689 !important;
+  border-color: #1f2689 !important;
 }
 .text-primary {
   color: #1f2689 !important;
@@ -357,10 +357,10 @@ h6,
   color: #7e9b9f !important;
 }
 .text-warning {
-  color: #f3c649 !important;
+  color: #1f2689 !important;
 }
 .text-danger {
-  color: #fac51c !important;
+  color: #1f2689 !important;
 }
 .alert-success {
   background-color: #00a885;
@@ -369,10 +369,10 @@ h6,
   background-color: #7e9b9f;
 }
 .alert-warning {
-  background-color: #f3c649;
+  background-color: #1f2689;
 }
 .alert-danger {
-  background-color: #fac51c;
+  background-color: #1f2689;
 }
 .btn-social {
   border-color: #1f2689;
@@ -416,11 +416,11 @@ h6,
 }
 .mbr-plan-header.bg-warning .mbr-plan-subtitle,
 .mbr-plan-header.bg-warning .mbr-plan-price-desc {
-  color: #ffffff;
+  color: #5059d7;
 }
 .mbr-plan-header.bg-danger .mbr-plan-subtitle,
 .mbr-plan-header.bg-danger .mbr-plan-price-desc {
-  color: #fef8e4;
+  color: #5059d7;
 }
 .mbr-small-footer a,
 .mbr-gallery-filter li:hover {
@@ -641,9 +641,11 @@ h6,
 }
 #header3-14 .mbr-section-title {
   font-family: 'Oswald', sans-serif;
+  text-align: center;
 }
 #header3-14 .mbr-section-subtitle {
   font-family: 'Open Sans', sans-serif;
+  text-align: center;
 }
 #header3-14 .mbr-section-subtitle B {
   color: #434343;
