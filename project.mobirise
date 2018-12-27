@@ -121,8 +121,9 @@
               "src": "@PROJECT_PATH@/assets/images/logo-300x84.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "",
-              "title": ""
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -832,8 +833,9 @@
               "src": "@PROJECT_PATH@/assets/images/logo-300x84.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "",
-              "title": ""
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
